@@ -1,6 +1,5 @@
 #In this, I have used Beautiful to import a list of songs from Saavn.
 #I have used the playlist shown in the code for this Project.
-#Since the source code mentions the song multiple times, I have removed the duplicates using excel. This can be done in Python as well.
 """
 Created on Sat Nov  2 23:13:14 2019
 
