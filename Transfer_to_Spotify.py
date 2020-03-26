@@ -7,8 +7,6 @@ Created on Tue Nov 19 11:30:54 2019
 """
 
 from selenium import webdriver
-from bs4 import BeautifulSoup as bs
-from pandas import DataFrame
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
